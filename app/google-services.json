@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830991161377",
+    "project_id": "fir-authdemo-rafi",
+    "storage_bucket": "fir-authdemo-rafi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830991161377:android:fb782201224f1c512dab60",
+        "android_client_info": {
+          "package_name": "com.iub.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830991161377-dr53ivmfg8bles56pfltm86qbmg67ti6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFvOsRG3AFmBdWSHJtr8y4teLTA-Vac0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830991161377-dr53ivmfg8bles56pfltm86qbmg67ti6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
